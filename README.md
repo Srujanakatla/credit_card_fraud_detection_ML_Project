@@ -12,3 +12,7 @@ Tools - jupyter notebook,Google Colab, python, numpy, pandas, sklearn, Matplotli
 CODE LINK:
 The code is availaible at: https://github.com/Srujanakatla/credit_card_fraud_detection_ML_Project/blob/99d402e50d82ea063b6779f893989966cef9e7c1/credit%20card%20fraud%20detection%20using%20machine%20learning%20project.ipynb
 (in thos repository itself)
+
+THe DATASET:
+The data was taken from kaggle site:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
